@@ -1,6 +1,6 @@
 # Javascrip Operators
 
-A software that receive 3 grades, manipulete them and show if the student failed or not
+A software that receive 2 grades from 3 students, manipulete them and show if the students failed or not
 
 
 ## 🛠 Tecnologies used

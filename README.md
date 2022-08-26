@@ -1,4 +1,4 @@
-# Javascrip Operators
+# Average Grade Calculator
 
 A software that receive 2 grades from 3 students, manipulete them and show if the students failed or not
 
@@ -15,7 +15,7 @@ A software that receive 2 grades from 3 students, manipulete them and show if th
  
 ## Demonstration
 
-
+![demo](https://user-images.githubusercontent.com/101666833/186994919-7a903d10-2596-4f26-9e28-f455e4ad8081.gif)
 
 
 ## References
